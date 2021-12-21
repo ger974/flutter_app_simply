@@ -1,4 +1,4 @@
-# flutter_simply_life
+# media_player
 
 A new Flutter project.
 
